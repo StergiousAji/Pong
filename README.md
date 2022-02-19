@@ -1,5 +1,6 @@
 # Pong
-It's good old-fashioned Pong
+#### It's good old-fashioned Pong.
+To start playing, run the executable file, `Pong.exe`, located in the Debug folder: `Pong\obj\Debug\Pong.exe` (Windows)
 
 ## Controls
 SINGLE-PLAYER
